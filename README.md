@@ -12,8 +12,6 @@ No diretório deste projeto, você deve executar:
 
 Inicia o servidor fake no projeto para o consumo de filmes e gêneros.\
 
-Esta página irá recarregar automaticamente se você fazer edições no código.\
-
 ### `yarn dev`
 
 Inicia o projeto em modo de desenvolvimento.\
